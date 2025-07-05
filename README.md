@@ -15,7 +15,7 @@ Para rodar o projeto, siga os passos abaixo:
 
 1. Certifique-se de ter o [Node.js](https://nodejs.org/) instalado (versão 14 ou superior).  
 2. Clone o repositório:  
-   `git clone <https://github.com/Luis-Fellipe/qrcode-password-generator.git>`  
+   `git clone https://github.com/Luis-Fellipe/qrcode-password-generator.git`  
    `cd qrcode-password-generator`  
 3. Instale as dependências:  
    `npm install`  
